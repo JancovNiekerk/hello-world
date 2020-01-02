@@ -128,11 +128,11 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 4. INTRO SECTION
 --------------------------------- */
 
-.intro-section{ padding-top: 200px; position: relative; background-size: cover; 
+.intro-section{ padding-top: 200px; position: relative; background-size: cover; background: rgba(255, 0, 0, 1);
 	z-index: 1;background-image: url(../../images/slider-1-1920x1080.jpg); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
-	right: 0; background: rgba(1,0,0, .2); }
+	right: 0; background: rgba(255, 0, 0, 1); }
 	
 .intro-section:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0;
 	height: 150px; z-index: -1; background: #fff; }
