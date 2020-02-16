@@ -1,3 +1,2 @@
 # hello-world
-Just testing following the hello-world tutorial... 
-I love problem solving and new experiences. 
+This is the project files for my personal web portfolio.
